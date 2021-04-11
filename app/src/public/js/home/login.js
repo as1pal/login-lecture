@@ -29,7 +29,7 @@ function login() {
             }
         })
         .catch((err) => {
-            console.error("로그인중 에러발생");
+            console.error("로그인 중 에러발생");
         });
 
 };
